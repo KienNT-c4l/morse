@@ -2,7 +2,7 @@
 # Morse Code Converter
 
 ## Giới thiệu
-Dự án này cung cấp một công cụ đơn giản để chuyển đổi giữa Morse code và văn bản thông thường. Nó hỗ trợ cả mã hóa văn bản sang Morse code và giải mã Morse code thành văn bản.
+Dự án chuyển đổi giữa văn bản sang mã morse và ngược lại
 
 ## Tính năng
 - Chuyển đổi văn bản sang Morse code.
